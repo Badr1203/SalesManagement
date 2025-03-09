@@ -1,0 +1,83 @@
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\Sales Management.exe
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\Sales Management.deps.json
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\Sales Management.runtimeconfig.json
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\Sales Management.pdb
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.AssemblyReference.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\View\ExpensesView.g.cs
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\App.g.cs
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management_MarkupCompile.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management_MarkupCompile.lref
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\View\ExpensesView.baml
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.g.resources
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.AssemblyInfoInputs.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.AssemblyInfo.cs
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.CoreCompileInputs.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\refint\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.pdb
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.genruntimeconfig.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\ref\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\App.baml
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.ResolveComReference.cache
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\bin\Debug\net6.0-windows\IronXL.dll
+D:\Applications\Microsoft\VisualStudio\KBR\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.CopyComplete
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Sales Management.exe
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Sales Management.deps.json
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Sales Management.runtimeconfig.json
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Sales Management.pdb
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.AssemblyReference.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.ResolveComReference.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\View\ExpensesView.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\App.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management_MarkupCompile.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management_MarkupCompile.lref
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\App.baml
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\View\ExpensesView.baml
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.g.resources
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.AssemblyInfoInputs.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.AssemblyInfo.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.csproj.CoreCompileInputs.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\refint\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.pdb
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management.genruntimeconfig.cache
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\ref\Sales Management.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Management_Content.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\ExcelSheets\Cards.xlsx
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\ExcelSheets\Products.xlsx
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\Sales Ma.85DDB039.Up2Date
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\View\AddProductView.g.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Debug\net6.0-windows\View\AddProductView.baml

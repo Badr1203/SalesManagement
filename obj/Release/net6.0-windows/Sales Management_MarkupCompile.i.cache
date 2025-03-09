@@ -1,0 +1,20 @@
+﻿Sales Management
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Applications\Microsoft\VisualStudio\Sales Management\obj\Release\net6.0-windows\
+Sales_Management
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Applications\Microsoft\VisualStudio\Sales Management\App.xaml
+3-513013970
+2-1557156668
+242107978343
+211-801501198
+MainWindow.xaml;View\AddProductView.xaml;View\ExpensesView.xaml;
+
+False
+
