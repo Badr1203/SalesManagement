@@ -4,12 +4,7 @@ bin/
 obj/
 
 # Ignore Visual Studio settings
-.vs/
-*.suo
-*.user
-*.vspscc
-*.vssscc
-*.pdb
+.vs
 
 # Ignore compiled DLLs and executables
 *.exe
