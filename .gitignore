@@ -4,7 +4,7 @@ bin/
 obj/
 
 # Ignore Visual Studio settings
-.vs
+.vs/
 
 # Ignore compiled DLLs and executables
 *.exe
